@@ -1,0 +1,10580 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p1-surface",
+    "ulpin3d": "06080704000001-0O",
+    "base_ulpin": "06080704000001",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_highrise",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0,
+       3.0
+      ],
+      [
+       59.0,
+       3.0
+      ],
+      [
+       59.0,
+       54.0
+      ],
+      [
+       3.0,
+       54.0
+      ],
+      [
+       3.0,
+       3.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p2-surface",
+    "ulpin3d": "06080704000002-02",
+    "base_ulpin": "06080704000002",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       61.0,
+       3.0
+      ],
+      [
+       117.0,
+       3.0
+      ],
+      [
+       117.0,
+       54.0
+      ],
+      [
+       61.0,
+       54.0
+      ],
+      [
+       61.0,
+       3.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p3-surface",
+    "ulpin3d": "06080704000003-0G",
+    "base_ulpin": "06080704000003",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0,
+       56.0
+      ],
+      [
+       59.0,
+       56.0
+      ],
+      [
+       59.0,
+       107.0
+      ],
+      [
+       3.0,
+       107.0
+      ],
+      [
+       3.0,
+       56.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p4-surface",
+    "ulpin3d": "06080704000004-0U",
+    "base_ulpin": "06080704000004",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       61.0,
+       56.0
+      ],
+      [
+       117.0,
+       56.0
+      ],
+      [
+       117.0,
+       107.0
+      ],
+      [
+       61.0,
+       107.0
+      ],
+      [
+       61.0,
+       56.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p5-surface",
+    "ulpin3d": "06080704000005-08",
+    "base_ulpin": "06080704000005",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       139.0,
+       3.0
+      ],
+      [
+       195.0,
+       3.0
+      ],
+      [
+       195.0,
+       54.0
+      ],
+      [
+       139.0,
+       54.0
+      ],
+      [
+       139.0,
+       3.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p6-surface",
+    "ulpin3d": "06080704000006-0M",
+    "base_ulpin": "06080704000006",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       197.0,
+       3.0
+      ],
+      [
+       253.0,
+       3.0
+      ],
+      [
+       253.0,
+       54.0
+      ],
+      [
+       197.0,
+       54.0
+      ],
+      [
+       197.0,
+       3.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p7-surface",
+    "ulpin3d": "06080704000007-00",
+    "base_ulpin": "06080704000007",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       139.0,
+       56.0
+      ],
+      [
+       195.0,
+       56.0
+      ],
+      [
+       195.0,
+       107.0
+      ],
+      [
+       139.0,
+       107.0
+      ],
+      [
+       139.0,
+       56.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p8-surface",
+    "ulpin3d": "06080704000008-0E",
+    "base_ulpin": "06080704000008",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       197.0,
+       56.0
+      ],
+      [
+       253.0,
+       56.0
+      ],
+      [
+       253.0,
+       107.0
+      ],
+      [
+       197.0,
+       107.0
+      ],
+      [
+       197.0,
+       56.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p9-surface",
+    "ulpin3d": "06080704000009-0S",
+    "base_ulpin": "06080704000009",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       275.0,
+       3.0
+      ],
+      [
+       331.0,
+       3.0
+      ],
+      [
+       331.0,
+       54.0
+      ],
+      [
+       275.0,
+       54.0
+      ],
+      [
+       275.0,
+       3.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p10-surface",
+    "ulpin3d": "06080704000010-0N",
+    "base_ulpin": "06080704000010",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       333.0,
+       3.0
+      ],
+      [
+       389.0,
+       3.0
+      ],
+      [
+       389.0,
+       54.0
+      ],
+      [
+       333.0,
+       54.0
+      ],
+      [
+       333.0,
+       3.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p11-surface",
+    "ulpin3d": "06080704000011-01",
+    "base_ulpin": "06080704000011",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       275.0,
+       56.0
+      ],
+      [
+       331.0,
+       56.0
+      ],
+      [
+       331.0,
+       107.0
+      ],
+      [
+       275.0,
+       107.0
+      ],
+      [
+       275.0,
+       56.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p12-surface",
+    "ulpin3d": "06080704000012-0F",
+    "base_ulpin": "06080704000012",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 10
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       333.0,
+       56.0
+      ],
+      [
+       389.0,
+       56.0
+      ],
+      [
+       389.0,
+       107.0
+      ],
+      [
+       333.0,
+       107.0
+      ],
+      [
+       333.0,
+       56.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p13-surface",
+    "ulpin3d": "06080704000013-0T",
+    "base_ulpin": "06080704000013",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 11
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0,
+       129.0
+      ],
+      [
+       59.0,
+       129.0
+      ],
+      [
+       59.0,
+       180.0
+      ],
+      [
+       3.0,
+       180.0
+      ],
+      [
+       3.0,
+       129.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p14-surface",
+    "ulpin3d": "06080704000014-07",
+    "base_ulpin": "06080704000014",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 12
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       61.0,
+       129.0
+      ],
+      [
+       117.0,
+       129.0
+      ],
+      [
+       117.0,
+       180.0
+      ],
+      [
+       61.0,
+       180.0
+      ],
+      [
+       61.0,
+       129.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p15-surface",
+    "ulpin3d": "06080704000015-0L",
+    "base_ulpin": "06080704000015",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 13
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0,
+       182.0
+      ],
+      [
+       59.0,
+       182.0
+      ],
+      [
+       59.0,
+       233.0
+      ],
+      [
+       3.0,
+       233.0
+      ],
+      [
+       3.0,
+       182.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p16-surface",
+    "ulpin3d": "06080704000016-0Z",
+    "base_ulpin": "06080704000016",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       61.0,
+       182.0
+      ],
+      [
+       117.0,
+       182.0
+      ],
+      [
+       117.0,
+       233.0
+      ],
+      [
+       61.0,
+       233.0
+      ],
+      [
+       61.0,
+       182.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p17-surface",
+    "ulpin3d": "06080704000017-0D",
+    "base_ulpin": "06080704000017",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       139.0,
+       129.0
+      ],
+      [
+       195.0,
+       129.0
+      ],
+      [
+       195.0,
+       180.0
+      ],
+      [
+       139.0,
+       180.0
+      ],
+      [
+       139.0,
+       129.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p18-surface",
+    "ulpin3d": "06080704000018-0R",
+    "base_ulpin": "06080704000018",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       197.0,
+       129.0
+      ],
+      [
+       253.0,
+       129.0
+      ],
+      [
+       253.0,
+       180.0
+      ],
+      [
+       197.0,
+       180.0
+      ],
+      [
+       197.0,
+       129.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p19-surface",
+    "ulpin3d": "06080704000019-05",
+    "base_ulpin": "06080704000019",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       139.0,
+       182.0
+      ],
+      [
+       195.0,
+       182.0
+      ],
+      [
+       195.0,
+       233.0
+      ],
+      [
+       139.0,
+       233.0
+      ],
+      [
+       139.0,
+       182.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p20-surface",
+    "ulpin3d": "06080704000020-00",
+    "base_ulpin": "06080704000020",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "civic",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": 14
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       197.0,
+       182.0
+      ],
+      [
+       253.0,
+       182.0
+      ],
+      [
+       253.0,
+       233.0
+      ],
+      [
+       197.0,
+       233.0
+      ],
+      [
+       197.0,
+       182.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p21-surface",
+    "ulpin3d": "06080704000021-0E",
+    "base_ulpin": "06080704000021",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_highrise",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       275.0,
+       129.0
+      ],
+      [
+       331.0,
+       129.0
+      ],
+      [
+       331.0,
+       180.0
+      ],
+      [
+       275.0,
+       180.0
+      ],
+      [
+       275.0,
+       129.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p22-surface",
+    "ulpin3d": "06080704000022-0S",
+    "base_ulpin": "06080704000022",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 16
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       333.0,
+       129.0
+      ],
+      [
+       389.0,
+       129.0
+      ],
+      [
+       389.0,
+       180.0
+      ],
+      [
+       333.0,
+       180.0
+      ],
+      [
+       333.0,
+       129.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p23-surface",
+    "ulpin3d": "06080704000023-06",
+    "base_ulpin": "06080704000023",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 17
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       275.0,
+       182.0
+      ],
+      [
+       331.0,
+       182.0
+      ],
+      [
+       331.0,
+       233.0
+      ],
+      [
+       275.0,
+       233.0
+      ],
+      [
+       275.0,
+       182.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p24-surface",
+    "ulpin3d": "06080704000024-0K",
+    "base_ulpin": "06080704000024",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 18
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       333.0,
+       182.0
+      ],
+      [
+       389.0,
+       182.0
+      ],
+      [
+       389.0,
+       233.0
+      ],
+      [
+       333.0,
+       233.0
+      ],
+      [
+       333.0,
+       182.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p25-surface",
+    "ulpin3d": "06080704000025-0Y",
+    "base_ulpin": "06080704000025",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 19
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0,
+       255.0
+      ],
+      [
+       59.0,
+       255.0
+      ],
+      [
+       59.0,
+       306.0
+      ],
+      [
+       3.0,
+       306.0
+      ],
+      [
+       3.0,
+       255.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p26-surface",
+    "ulpin3d": "06080704000026-0C",
+    "base_ulpin": "06080704000026",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       61.0,
+       255.0
+      ],
+      [
+       117.0,
+       255.0
+      ],
+      [
+       117.0,
+       306.0
+      ],
+      [
+       61.0,
+       306.0
+      ],
+      [
+       61.0,
+       255.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p27-surface",
+    "ulpin3d": "06080704000027-0Q",
+    "base_ulpin": "06080704000027",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 20
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       3.0,
+       308.0
+      ],
+      [
+       59.0,
+       308.0
+      ],
+      [
+       59.0,
+       359.0
+      ],
+      [
+       3.0,
+       359.0
+      ],
+      [
+       3.0,
+       308.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p28-surface",
+    "ulpin3d": "06080704000028-04",
+    "base_ulpin": "06080704000028",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 21
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       61.0,
+       308.0
+      ],
+      [
+       117.0,
+       308.0
+      ],
+      [
+       117.0,
+       359.0
+      ],
+      [
+       61.0,
+       359.0
+      ],
+      [
+       61.0,
+       308.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p29-surface",
+    "ulpin3d": "06080704000029-0I",
+    "base_ulpin": "06080704000029",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_highrise",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       139.0,
+       255.0
+      ],
+      [
+       195.0,
+       255.0
+      ],
+      [
+       195.0,
+       306.0
+      ],
+      [
+       139.0,
+       306.0
+      ],
+      [
+       139.0,
+       255.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p30-surface",
+    "ulpin3d": "06080704000030-0D",
+    "base_ulpin": "06080704000030",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 23
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       197.0,
+       255.0
+      ],
+      [
+       253.0,
+       255.0
+      ],
+      [
+       253.0,
+       306.0
+      ],
+      [
+       197.0,
+       306.0
+      ],
+      [
+       197.0,
+       255.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p31-surface",
+    "ulpin3d": "06080704000031-0R",
+    "base_ulpin": "06080704000031",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 24
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       139.0,
+       308.0
+      ],
+      [
+       195.0,
+       308.0
+      ],
+      [
+       195.0,
+       359.0
+      ],
+      [
+       139.0,
+       359.0
+      ],
+      [
+       139.0,
+       308.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p32-surface",
+    "ulpin3d": "06080704000032-05",
+    "base_ulpin": "06080704000032",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "commercial_retail",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       197.0,
+       308.0
+      ],
+      [
+       253.0,
+       308.0
+      ],
+      [
+       253.0,
+       359.0
+      ],
+      [
+       197.0,
+       359.0
+      ],
+      [
+       197.0,
+       308.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p33-surface",
+    "ulpin3d": "06080704000033-0J",
+    "base_ulpin": "06080704000033",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 26
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       275.0,
+       255.0
+      ],
+      [
+       331.0,
+       255.0
+      ],
+      [
+       331.0,
+       306.0
+      ],
+      [
+       275.0,
+       306.0
+      ],
+      [
+       275.0,
+       255.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p34-surface",
+    "ulpin3d": "06080704000034-0X",
+    "base_ulpin": "06080704000034",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 27
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       333.0,
+       255.0
+      ],
+      [
+       389.0,
+       255.0
+      ],
+      [
+       389.0,
+       306.0
+      ],
+      [
+       333.0,
+       306.0
+      ],
+      [
+       333.0,
+       255.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p35-surface",
+    "ulpin3d": "06080704000035-0B",
+    "base_ulpin": "06080704000035",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -0.2,
+    "zmax": 0.0,
+    "usage": "residential_walkup",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 28
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       275.0,
+       308.0
+      ],
+      [
+       331.0,
+       308.0
+      ],
+      [
+       331.0,
+       359.0
+      ],
+      [
+       275.0,
+       359.0
+      ],
+      [
+       275.0,
+       308.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "p36-surface",
+    "ulpin3d": "06080704000036-0P",
+    "base_ulpin": "06080704000036",
+    "category": "surface",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 0.2,
+    "usage": "open_space",
+    "owner": "Municipal Corporation",
+    "right_type": "Civic Trust",
+    "asset": null,
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       333.0,
+       308.0
+      ],
+      [
+       389.0,
+       308.0
+      ],
+      [
+       389.0,
+       359.0
+      ],
+      [
+       333.0,
+       359.0
+      ],
+      [
+       333.0,
+       308.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f1-uA",
+    "ulpin3d": "06080704000001-F01.AE",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "A",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f1-uB",
+    "ulpin3d": "06080704000001-F01.BW",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "B",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f1-uC",
+    "ulpin3d": "06080704000001-F01.CE",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "C",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f1-uD",
+    "ulpin3d": "06080704000001-F01.DW",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "D",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f2-uA",
+    "ulpin3d": "06080704000001-F02.AV",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "A",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f2-uB",
+    "ulpin3d": "06080704000001-F02.BD",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "B",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f2-uC",
+    "ulpin3d": "06080704000001-F02.CV",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "C",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f2-uD",
+    "ulpin3d": "06080704000001-F02.DD",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "D",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f3-uA",
+    "ulpin3d": "06080704000001-F03.AC",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "A",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f3-uB",
+    "ulpin3d": "06080704000001-F03.BU",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "B",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f3-uC",
+    "ulpin3d": "06080704000001-F03.CC",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "C",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f3-uD",
+    "ulpin3d": "06080704000001-F03.DU",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "D",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f4-uA",
+    "ulpin3d": "06080704000001-F04.AT",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "A",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f4-uB",
+    "ulpin3d": "06080704000001-F04.BB",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "B",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f4-uC",
+    "ulpin3d": "06080704000001-F04.CT",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "C",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f4-uD",
+    "ulpin3d": "06080704000001-F04.DB",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "D",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f5-uA",
+    "ulpin3d": "06080704000001-F05.AA",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "A",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f5-uB",
+    "ulpin3d": "06080704000001-F05.BS",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "B",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f5-uC",
+    "ulpin3d": "06080704000001-F05.CA",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "C",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f5-uD",
+    "ulpin3d": "06080704000001-F05.DS",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "D",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f6-uA",
+    "ulpin3d": "06080704000001-F06.AR",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "A",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f6-uB",
+    "ulpin3d": "06080704000001-F06.B9",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "B",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f6-uC",
+    "ulpin3d": "06080704000001-F06.CR",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "C",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f6-uD",
+    "ulpin3d": "06080704000001-F06.D9",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "D",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f7-uA",
+    "ulpin3d": "06080704000001-F07.A8",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "A",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f7-uB",
+    "ulpin3d": "06080704000001-F07.BQ",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "B",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f7-uC",
+    "ulpin3d": "06080704000001-F07.C8",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "C",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f7-uD",
+    "ulpin3d": "06080704000001-F07.DQ",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "D",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f8-uA",
+    "ulpin3d": "06080704000001-F08.AP",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "A",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f8-uB",
+    "ulpin3d": "06080704000001-F08.B7",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "B",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f8-uC",
+    "ulpin3d": "06080704000001-F08.CP",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "C",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f8-uD",
+    "ulpin3d": "06080704000001-F08.D7",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "D",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f9-uA",
+    "ulpin3d": "06080704000001-F09.A6",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "A",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f9-uB",
+    "ulpin3d": "06080704000001-F09.BO",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "B",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f9-uC",
+    "ulpin3d": "06080704000001-F09.C6",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "C",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f9-uD",
+    "ulpin3d": "06080704000001-F09.DO",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "D",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f10-uA",
+    "ulpin3d": "06080704000001-F10.AD",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "A",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       5.5,
+       28.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f10-uB",
+    "ulpin3d": "06080704000001-F10.BV",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "B",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f10-uC",
+    "ulpin3d": "06080704000001-F10.CD",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "C",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       28.5
+      ],
+      [
+       31.0,
+       28.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-f10-uD",
+    "ulpin3d": "06080704000001-F10.DV",
+    "base_ulpin": "06080704000001",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "D",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       28.5
+      ],
+      [
+       56.5,
+       28.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       28.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u1",
+    "ulpin3d": "06080704000001-U1M",
+    "base_ulpin": "06080704000001",
+    "category": "underground",
+    "level_no": -1,
+    "unit_no": null,
+    "zmin": -3.6,
+    "zmax": -0.2,
+    "usage": "car_parking",
+    "owner": "Municipal Corporation",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u2-P01",
+    "ulpin3d": "06080704000001-U2.P01E",
+    "base_ulpin": "06080704000001",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P01",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 1 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       31.0,
+       5.5
+      ],
+      [
+       31.0,
+       20.833333333333336
+      ],
+      [
+       5.5,
+       20.833333333333336
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u2-P02",
+    "ulpin3d": "06080704000001-U2.P02X",
+    "base_ulpin": "06080704000001",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P02",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 1 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       20.833333333333336
+      ],
+      [
+       31.0,
+       20.833333333333336
+      ],
+      [
+       31.0,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u2-P03",
+    "ulpin3d": "06080704000001-U2.P03G",
+    "base_ulpin": "06080704000001",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P03",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 1 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       20.833333333333336
+      ],
+      [
+       31.0,
+       20.833333333333336
+      ],
+      [
+       31.0,
+       36.16666666666667
+      ],
+      [
+       5.5,
+       36.16666666666667
+      ],
+      [
+       5.5,
+       20.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u2-P04",
+    "ulpin3d": "06080704000001-U2.P04Z",
+    "base_ulpin": "06080704000001",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P04",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 1 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       20.833333333333336
+      ],
+      [
+       56.5,
+       20.833333333333336
+      ],
+      [
+       56.5,
+       36.16666666666667
+      ],
+      [
+       31.0,
+       36.16666666666667
+      ],
+      [
+       31.0,
+       20.833333333333336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u2-P05",
+    "ulpin3d": "06080704000001-U2.P05I",
+    "base_ulpin": "06080704000001",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P05",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 1 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       36.16666666666667
+      ],
+      [
+       31.0,
+       36.16666666666667
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       36.16666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-u2-P06",
+    "ulpin3d": "06080704000001-U2.P061",
+    "base_ulpin": "06080704000001",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P06",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 1 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       31.0,
+       36.16666666666667
+      ],
+      [
+       56.5,
+       36.16666666666667
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       31.0,
+       51.5
+      ],
+      [
+       31.0,
+       36.16666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b1-air",
+    "ulpin3d": "06080704000001-ARU",
+    "base_ulpin": "06080704000001",
+    "category": "air_right",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 32.0,
+    "zmax": 62.0,
+    "usage": "air_space_rights",
+    "owner": "Sky Rights Corp",
+    "right_type": "Air Right",
+    "asset": null,
+    "building_id": 1
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.5,
+       5.5
+      ],
+      [
+       56.5,
+       5.5
+      ],
+      [
+       56.5,
+       51.5
+      ],
+      [
+       5.5,
+       51.5
+      ],
+      [
+       5.5,
+       5.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b2-f1",
+    "ulpin3d": "06080704000002-F01S",
+    "base_ulpin": "06080704000002",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       62.5,
+       4.5
+      ],
+      [
+       115.5,
+       4.5
+      ],
+      [
+       115.5,
+       52.5
+      ],
+      [
+       62.5,
+       52.5
+      ],
+      [
+       62.5,
+       4.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b2-f2",
+    "ulpin3d": "06080704000002-F029",
+    "base_ulpin": "06080704000002",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 2
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       62.5,
+       4.5
+      ],
+      [
+       115.5,
+       4.5
+      ],
+      [
+       115.5,
+       52.5
+      ],
+      [
+       62.5,
+       52.5
+      ],
+      [
+       62.5,
+       4.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b3-f1",
+    "ulpin3d": "06080704000003-F016",
+    "base_ulpin": "06080704000003",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.5,
+       57.5
+      ],
+      [
+       57.5,
+       57.5
+      ],
+      [
+       57.5,
+       105.5
+      ],
+      [
+       4.5,
+       105.5
+      ],
+      [
+       4.5,
+       57.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b3-f2",
+    "ulpin3d": "06080704000003-F02N",
+    "base_ulpin": "06080704000003",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 3
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.5,
+       57.5
+      ],
+      [
+       57.5,
+       57.5
+      ],
+      [
+       57.5,
+       105.5
+      ],
+      [
+       4.5,
+       105.5
+      ],
+      [
+       4.5,
+       57.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b4-f1",
+    "ulpin3d": "06080704000004-F01K",
+    "base_ulpin": "06080704000004",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       62.5,
+       57.5
+      ],
+      [
+       115.5,
+       57.5
+      ],
+      [
+       115.5,
+       105.5
+      ],
+      [
+       62.5,
+       105.5
+      ],
+      [
+       62.5,
+       57.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b4-f2",
+    "ulpin3d": "06080704000004-F021",
+    "base_ulpin": "06080704000004",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 4
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       62.5,
+       57.5
+      ],
+      [
+       115.5,
+       57.5
+      ],
+      [
+       115.5,
+       105.5
+      ],
+      [
+       62.5,
+       105.5
+      ],
+      [
+       62.5,
+       57.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b5-f1",
+    "ulpin3d": "06080704000005-F01Y",
+    "base_ulpin": "06080704000005",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.0,
+       5.0
+      ],
+      [
+       193.0,
+       5.0
+      ],
+      [
+       193.0,
+       52.0
+      ],
+      [
+       141.0,
+       52.0
+      ],
+      [
+       141.0,
+       5.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b5-f2",
+    "ulpin3d": "06080704000005-F02F",
+    "base_ulpin": "06080704000005",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.0,
+       5.0
+      ],
+      [
+       193.0,
+       5.0
+      ],
+      [
+       193.0,
+       52.0
+      ],
+      [
+       141.0,
+       52.0
+      ],
+      [
+       141.0,
+       5.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b6-f1",
+    "ulpin3d": "06080704000006-F01C",
+    "base_ulpin": "06080704000006",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       199.0,
+       5.0
+      ],
+      [
+       251.0,
+       5.0
+      ],
+      [
+       251.0,
+       52.0
+      ],
+      [
+       199.0,
+       52.0
+      ],
+      [
+       199.0,
+       5.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b6-f2",
+    "ulpin3d": "06080704000006-F02T",
+    "base_ulpin": "06080704000006",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       199.0,
+       5.0
+      ],
+      [
+       251.0,
+       5.0
+      ],
+      [
+       251.0,
+       52.0
+      ],
+      [
+       199.0,
+       52.0
+      ],
+      [
+       199.0,
+       5.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b7-f1",
+    "ulpin3d": "06080704000007-F01Q",
+    "base_ulpin": "06080704000007",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.0,
+       58.0
+      ],
+      [
+       193.0,
+       58.0
+      ],
+      [
+       193.0,
+       105.0
+      ],
+      [
+       141.0,
+       105.0
+      ],
+      [
+       141.0,
+       58.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b7-f2",
+    "ulpin3d": "06080704000007-F027",
+    "base_ulpin": "06080704000007",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.0,
+       58.0
+      ],
+      [
+       193.0,
+       58.0
+      ],
+      [
+       193.0,
+       105.0
+      ],
+      [
+       141.0,
+       105.0
+      ],
+      [
+       141.0,
+       58.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b7-f3",
+    "ulpin3d": "06080704000007-F03O",
+    "base_ulpin": "06080704000007",
+    "category": "floor",
+    "level_no": 3,
+    "unit_no": null,
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.0,
+       58.0
+      ],
+      [
+       193.0,
+       58.0
+      ],
+      [
+       193.0,
+       105.0
+      ],
+      [
+       141.0,
+       105.0
+      ],
+      [
+       141.0,
+       58.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b8-f1",
+    "ulpin3d": "06080704000009-F01I",
+    "base_ulpin": "06080704000009",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       276.2,
+       4.2
+      ],
+      [
+       329.8,
+       4.2
+      ],
+      [
+       329.8,
+       52.8
+      ],
+      [
+       276.2,
+       52.8
+      ],
+      [
+       276.2,
+       4.2
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b9-f1",
+    "ulpin3d": "06080704000011-F01R",
+    "base_ulpin": "06080704000011",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       276.2,
+       57.2
+      ],
+      [
+       329.8,
+       57.2
+      ],
+      [
+       329.8,
+       105.8
+      ],
+      [
+       276.2,
+       105.8
+      ],
+      [
+       276.2,
+       57.2
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b10-f1",
+    "ulpin3d": "06080704000012-F015",
+    "base_ulpin": "06080704000012",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 10
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       334.2,
+       57.2
+      ],
+      [
+       387.8,
+       57.2
+      ],
+      [
+       387.8,
+       105.8
+      ],
+      [
+       334.2,
+       105.8
+      ],
+      [
+       334.2,
+       57.2
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b11-f1",
+    "ulpin3d": "06080704000013-F01J",
+    "base_ulpin": "06080704000013",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 11
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.0,
+       131.0
+      ],
+      [
+       57.0,
+       131.0
+      ],
+      [
+       57.0,
+       178.0
+      ],
+      [
+       5.0,
+       178.0
+      ],
+      [
+       5.0,
+       131.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b11-f2",
+    "ulpin3d": "06080704000013-F020",
+    "base_ulpin": "06080704000013",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 11
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.0,
+       131.0
+      ],
+      [
+       57.0,
+       131.0
+      ],
+      [
+       57.0,
+       178.0
+      ],
+      [
+       5.0,
+       178.0
+      ],
+      [
+       5.0,
+       131.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b11-f3",
+    "ulpin3d": "06080704000013-F03H",
+    "base_ulpin": "06080704000013",
+    "category": "floor",
+    "level_no": 3,
+    "unit_no": null,
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 11
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.0,
+       131.0
+      ],
+      [
+       57.0,
+       131.0
+      ],
+      [
+       57.0,
+       178.0
+      ],
+      [
+       5.0,
+       178.0
+      ],
+      [
+       5.0,
+       131.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b12-f1",
+    "ulpin3d": "06080704000014-F01X",
+    "base_ulpin": "06080704000014",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 12
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       63.0,
+       131.0
+      ],
+      [
+       115.0,
+       131.0
+      ],
+      [
+       115.0,
+       178.0
+      ],
+      [
+       63.0,
+       178.0
+      ],
+      [
+       63.0,
+       131.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b12-f2",
+    "ulpin3d": "06080704000014-F02E",
+    "base_ulpin": "06080704000014",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 12
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       63.0,
+       131.0
+      ],
+      [
+       115.0,
+       131.0
+      ],
+      [
+       115.0,
+       178.0
+      ],
+      [
+       63.0,
+       178.0
+      ],
+      [
+       63.0,
+       131.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b13-f1",
+    "ulpin3d": "06080704000015-F01B",
+    "base_ulpin": "06080704000015",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 13
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.0,
+       184.0
+      ],
+      [
+       57.0,
+       184.0
+      ],
+      [
+       57.0,
+       231.0
+      ],
+      [
+       5.0,
+       231.0
+      ],
+      [
+       5.0,
+       184.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b13-f2",
+    "ulpin3d": "06080704000015-F02S",
+    "base_ulpin": "06080704000015",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 13
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.0,
+       184.0
+      ],
+      [
+       57.0,
+       184.0
+      ],
+      [
+       57.0,
+       231.0
+      ],
+      [
+       5.0,
+       231.0
+      ],
+      [
+       5.0,
+       184.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b13-f3",
+    "ulpin3d": "06080704000015-F039",
+    "base_ulpin": "06080704000015",
+    "category": "floor",
+    "level_no": 3,
+    "unit_no": null,
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 13
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.0,
+       184.0
+      ],
+      [
+       57.0,
+       184.0
+      ],
+      [
+       57.0,
+       231.0
+      ],
+      [
+       5.0,
+       231.0
+      ],
+      [
+       5.0,
+       184.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b14-f1",
+    "ulpin3d": "06080704000020-F01Q",
+    "base_ulpin": "06080704000020",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 14
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       199.0,
+       184.0
+      ],
+      [
+       251.0,
+       184.0
+      ],
+      [
+       251.0,
+       231.0
+      ],
+      [
+       199.0,
+       231.0
+      ],
+      [
+       199.0,
+       184.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f1-uA",
+    "ulpin3d": "06080704000021-F01.A4",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "A",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f1-uB",
+    "ulpin3d": "06080704000021-F01.BM",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "B",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f1-uC",
+    "ulpin3d": "06080704000021-F01.C4",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "C",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f1-uD",
+    "ulpin3d": "06080704000021-F01.DM",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "D",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f2-uA",
+    "ulpin3d": "06080704000021-F02.AL",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "A",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f2-uB",
+    "ulpin3d": "06080704000021-F02.B3",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "B",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f2-uC",
+    "ulpin3d": "06080704000021-F02.CL",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "C",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f2-uD",
+    "ulpin3d": "06080704000021-F02.D3",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "D",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f3-uA",
+    "ulpin3d": "06080704000021-F03.A2",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "A",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f3-uB",
+    "ulpin3d": "06080704000021-F03.BK",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "B",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f3-uC",
+    "ulpin3d": "06080704000021-F03.C2",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "C",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f3-uD",
+    "ulpin3d": "06080704000021-F03.DK",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "D",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f4-uA",
+    "ulpin3d": "06080704000021-F04.AJ",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "A",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f4-uB",
+    "ulpin3d": "06080704000021-F04.B1",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "B",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f4-uC",
+    "ulpin3d": "06080704000021-F04.CJ",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "C",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f4-uD",
+    "ulpin3d": "06080704000021-F04.D1",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "D",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f5-uA",
+    "ulpin3d": "06080704000021-F05.A0",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "A",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f5-uB",
+    "ulpin3d": "06080704000021-F05.BI",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "B",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f5-uC",
+    "ulpin3d": "06080704000021-F05.C0",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "C",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f5-uD",
+    "ulpin3d": "06080704000021-F05.DI",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "D",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f6-uA",
+    "ulpin3d": "06080704000021-F06.AH",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "A",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f6-uB",
+    "ulpin3d": "06080704000021-F06.BZ",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "B",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f6-uC",
+    "ulpin3d": "06080704000021-F06.CH",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "C",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f6-uD",
+    "ulpin3d": "06080704000021-F06.DZ",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "D",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f7-uA",
+    "ulpin3d": "06080704000021-F07.AY",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "A",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f7-uB",
+    "ulpin3d": "06080704000021-F07.BG",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "B",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f7-uC",
+    "ulpin3d": "06080704000021-F07.CY",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "C",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f7-uD",
+    "ulpin3d": "06080704000021-F07.DG",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "D",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f8-uA",
+    "ulpin3d": "06080704000021-F08.AF",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "A",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f8-uB",
+    "ulpin3d": "06080704000021-F08.BX",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "B",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f8-uC",
+    "ulpin3d": "06080704000021-F08.CF",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "C",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f8-uD",
+    "ulpin3d": "06080704000021-F08.DX",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "D",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f9-uA",
+    "ulpin3d": "06080704000021-F09.AW",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "A",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       277.5,
+       154.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f9-uB",
+    "ulpin3d": "06080704000021-F09.BE",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "B",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f9-uC",
+    "ulpin3d": "06080704000021-F09.CW",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "C",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       154.5
+      ],
+      [
+       303.0,
+       154.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-f9-uD",
+    "ulpin3d": "06080704000021-F09.DE",
+    "base_ulpin": "06080704000021",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "D",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       154.5
+      ],
+      [
+       328.5,
+       154.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       154.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u1",
+    "ulpin3d": "06080704000021-U1C",
+    "base_ulpin": "06080704000021",
+    "category": "underground",
+    "level_no": -1,
+    "unit_no": null,
+    "zmin": -3.6,
+    "zmax": -0.2,
+    "usage": "car_parking",
+    "owner": "Municipal Corporation",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u2-P01",
+    "ulpin3d": "06080704000021-U2.P014",
+    "base_ulpin": "06080704000021",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P01",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Green Tower 6 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       303.0,
+       131.5
+      ],
+      [
+       303.0,
+       146.83333333333334
+      ],
+      [
+       277.5,
+       146.83333333333334
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u2-P02",
+    "ulpin3d": "06080704000021-U2.P02N",
+    "base_ulpin": "06080704000021",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P02",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Green Tower 6 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       146.83333333333334
+      ],
+      [
+       303.0,
+       146.83333333333334
+      ],
+      [
+       303.0,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u2-P03",
+    "ulpin3d": "06080704000021-U2.P036",
+    "base_ulpin": "06080704000021",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P03",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Green Tower 6 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       146.83333333333334
+      ],
+      [
+       303.0,
+       146.83333333333334
+      ],
+      [
+       303.0,
+       162.16666666666666
+      ],
+      [
+       277.5,
+       162.16666666666666
+      ],
+      [
+       277.5,
+       146.83333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u2-P04",
+    "ulpin3d": "06080704000021-U2.P04P",
+    "base_ulpin": "06080704000021",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P04",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Green Tower 6 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       146.83333333333334
+      ],
+      [
+       328.5,
+       146.83333333333334
+      ],
+      [
+       328.5,
+       162.16666666666666
+      ],
+      [
+       303.0,
+       162.16666666666666
+      ],
+      [
+       303.0,
+       146.83333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u2-P05",
+    "ulpin3d": "06080704000021-U2.P058",
+    "base_ulpin": "06080704000021",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P05",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Green Tower 6 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       162.16666666666666
+      ],
+      [
+       303.0,
+       162.16666666666666
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       162.16666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-u2-P06",
+    "ulpin3d": "06080704000021-U2.P06R",
+    "base_ulpin": "06080704000021",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P06",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Green Tower 6 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       303.0,
+       162.16666666666666
+      ],
+      [
+       328.5,
+       162.16666666666666
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       303.0,
+       177.5
+      ],
+      [
+       303.0,
+       162.16666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-air",
+    "ulpin3d": "06080704000021-ARK",
+    "base_ulpin": "06080704000021",
+    "category": "air_right",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 28.8,
+    "zmax": 58.8,
+    "usage": "air_space_rights",
+    "owner": "Sky Rights Corp",
+    "right_type": "Air Right",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.5,
+       131.5
+      ],
+      [
+       328.5,
+       131.5
+      ],
+      [
+       328.5,
+       177.5
+      ],
+      [
+       277.5,
+       177.5
+      ],
+      [
+       277.5,
+       131.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b16-f1",
+    "ulpin3d": "06080704000022-F01I",
+    "base_ulpin": "06080704000022",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 16
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       334.5,
+       130.5
+      ],
+      [
+       387.5,
+       130.5
+      ],
+      [
+       387.5,
+       178.5
+      ],
+      [
+       334.5,
+       178.5
+      ],
+      [
+       334.5,
+       130.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b16-f2",
+    "ulpin3d": "06080704000022-F02Z",
+    "base_ulpin": "06080704000022",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 16
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       334.5,
+       130.5
+      ],
+      [
+       387.5,
+       130.5
+      ],
+      [
+       387.5,
+       178.5
+      ],
+      [
+       334.5,
+       178.5
+      ],
+      [
+       334.5,
+       130.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b17-f1",
+    "ulpin3d": "06080704000023-F01W",
+    "base_ulpin": "06080704000023",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 17
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       276.5,
+       183.5
+      ],
+      [
+       329.5,
+       183.5
+      ],
+      [
+       329.5,
+       231.5
+      ],
+      [
+       276.5,
+       231.5
+      ],
+      [
+       276.5,
+       183.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b17-f2",
+    "ulpin3d": "06080704000023-F02D",
+    "base_ulpin": "06080704000023",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 17
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       276.5,
+       183.5
+      ],
+      [
+       329.5,
+       183.5
+      ],
+      [
+       329.5,
+       231.5
+      ],
+      [
+       276.5,
+       231.5
+      ],
+      [
+       276.5,
+       183.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b18-f1",
+    "ulpin3d": "06080704000024-F01A",
+    "base_ulpin": "06080704000024",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 18
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       334.5,
+       183.5
+      ],
+      [
+       387.5,
+       183.5
+      ],
+      [
+       387.5,
+       231.5
+      ],
+      [
+       334.5,
+       231.5
+      ],
+      [
+       334.5,
+       183.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b18-f2",
+    "ulpin3d": "06080704000024-F02R",
+    "base_ulpin": "06080704000024",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 18
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       334.5,
+       183.5
+      ],
+      [
+       387.5,
+       183.5
+      ],
+      [
+       387.5,
+       231.5
+      ],
+      [
+       334.5,
+       231.5
+      ],
+      [
+       334.5,
+       183.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b19-f1",
+    "ulpin3d": "06080704000025-F01O",
+    "base_ulpin": "06080704000025",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 19
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.2,
+       256.2
+      ],
+      [
+       57.8,
+       256.2
+      ],
+      [
+       57.8,
+       304.8
+      ],
+      [
+       4.2,
+       304.8
+      ],
+      [
+       4.2,
+       256.2
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b20-f1",
+    "ulpin3d": "06080704000027-F01G",
+    "base_ulpin": "06080704000027",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 20
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.2,
+       309.2
+      ],
+      [
+       57.8,
+       309.2
+      ],
+      [
+       57.8,
+       357.8
+      ],
+      [
+       4.2,
+       357.8
+      ],
+      [
+       4.2,
+       309.2
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b21-f1",
+    "ulpin3d": "06080704000028-F01U",
+    "base_ulpin": "06080704000028",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 21
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       62.2,
+       309.2
+      ],
+      [
+       115.8,
+       309.2
+      ],
+      [
+       115.8,
+       357.8
+      ],
+      [
+       62.2,
+       357.8
+      ],
+      [
+       62.2,
+       309.2
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f1-uA",
+    "ulpin3d": "06080704000029-F01.A8",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "A",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f1-uB",
+    "ulpin3d": "06080704000029-F01.BQ",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "B",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f1-uC",
+    "ulpin3d": "06080704000029-F01.C8",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "C",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f1-uD",
+    "ulpin3d": "06080704000029-F01.DQ",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 1,
+    "unit_no": "D",
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f2-uA",
+    "ulpin3d": "06080704000029-F02.AP",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "A",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f2-uB",
+    "ulpin3d": "06080704000029-F02.B7",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "B",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f2-uC",
+    "ulpin3d": "06080704000029-F02.CP",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "C",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f2-uD",
+    "ulpin3d": "06080704000029-F02.D7",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 2,
+    "unit_no": "D",
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f3-uA",
+    "ulpin3d": "06080704000029-F03.A6",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "A",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f3-uB",
+    "ulpin3d": "06080704000029-F03.BO",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "B",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f3-uC",
+    "ulpin3d": "06080704000029-F03.C6",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "C",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f3-uD",
+    "ulpin3d": "06080704000029-F03.DO",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 3,
+    "unit_no": "D",
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f4-uA",
+    "ulpin3d": "06080704000029-F04.AN",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "A",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f4-uB",
+    "ulpin3d": "06080704000029-F04.B5",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "B",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f4-uC",
+    "ulpin3d": "06080704000029-F04.CN",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "C",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f4-uD",
+    "ulpin3d": "06080704000029-F04.D5",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 4,
+    "unit_no": "D",
+    "zmin": 9.600000000000001,
+    "zmax": 12.8,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f5-uA",
+    "ulpin3d": "06080704000029-F05.A4",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "A",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f5-uB",
+    "ulpin3d": "06080704000029-F05.BM",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "B",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f5-uC",
+    "ulpin3d": "06080704000029-F05.C4",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "C",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f5-uD",
+    "ulpin3d": "06080704000029-F05.DM",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 5,
+    "unit_no": "D",
+    "zmin": 12.8,
+    "zmax": 16.0,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f6-uA",
+    "ulpin3d": "06080704000029-F06.AL",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "A",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f6-uB",
+    "ulpin3d": "06080704000029-F06.B3",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "B",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f6-uC",
+    "ulpin3d": "06080704000029-F06.CL",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "C",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f6-uD",
+    "ulpin3d": "06080704000029-F06.D3",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 6,
+    "unit_no": "D",
+    "zmin": 16.0,
+    "zmax": 19.2,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f7-uA",
+    "ulpin3d": "06080704000029-F07.A2",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "A",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f7-uB",
+    "ulpin3d": "06080704000029-F07.BK",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "B",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f7-uC",
+    "ulpin3d": "06080704000029-F07.C2",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "C",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f7-uD",
+    "ulpin3d": "06080704000029-F07.DK",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 7,
+    "unit_no": "D",
+    "zmin": 19.200000000000003,
+    "zmax": 22.400000000000002,
+    "usage": "residential_apartment",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f8-uA",
+    "ulpin3d": "06080704000029-F08.AJ",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "A",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f8-uB",
+    "ulpin3d": "06080704000029-F08.B1",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "B",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f8-uC",
+    "ulpin3d": "06080704000029-F08.CJ",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "C",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f8-uD",
+    "ulpin3d": "06080704000029-F08.D1",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 8,
+    "unit_no": "D",
+    "zmin": 22.400000000000002,
+    "zmax": 25.6,
+    "usage": "residential_apartment",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f9-uA",
+    "ulpin3d": "06080704000029-F09.A0",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "A",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f9-uB",
+    "ulpin3d": "06080704000029-F09.BI",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "B",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Sunita Krishnan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f9-uC",
+    "ulpin3d": "06080704000029-F09.C0",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "C",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Amitabh Sharma",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f9-uD",
+    "ulpin3d": "06080704000029-F09.DI",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 9,
+    "unit_no": "D",
+    "zmin": 25.6,
+    "zmax": 28.8,
+    "usage": "residential_apartment",
+    "owner": "Farida Begum",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f10-uA",
+    "ulpin3d": "06080704000029-F10.A7",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "A",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Krishna Iyer",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       141.5,
+       280.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f10-uB",
+    "ulpin3d": "06080704000029-F10.BP",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "B",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Manpreet Kaur",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f10-uC",
+    "ulpin3d": "06080704000029-F10.C7",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "C",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Dinesh Yadav",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       280.5
+      ],
+      [
+       167.0,
+       280.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-f10-uD",
+    "ulpin3d": "06080704000029-F10.DP",
+    "base_ulpin": "06080704000029",
+    "category": "suite",
+    "level_no": 10,
+    "unit_no": "D",
+    "zmin": 28.8,
+    "zmax": 32.0,
+    "usage": "residential_apartment",
+    "owner": "Lakshmi Narayanan",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       280.5
+      ],
+      [
+       192.5,
+       280.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       280.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u1",
+    "ulpin3d": "06080704000029-U1G",
+    "base_ulpin": "06080704000029",
+    "category": "underground",
+    "level_no": -1,
+    "unit_no": null,
+    "zmin": -3.6,
+    "zmax": -0.2,
+    "usage": "car_parking",
+    "owner": "Municipal Corporation",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u2-P01",
+    "ulpin3d": "06080704000029-U2.P018",
+    "base_ulpin": "06080704000029",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P01",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 8 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       167.0,
+       257.5
+      ],
+      [
+       167.0,
+       272.8333333333333
+      ],
+      [
+       141.5,
+       272.8333333333333
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u2-P02",
+    "ulpin3d": "06080704000029-U2.P02R",
+    "base_ulpin": "06080704000029",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P02",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 8 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       272.8333333333333
+      ],
+      [
+       167.0,
+       272.8333333333333
+      ],
+      [
+       167.0,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u2-P03",
+    "ulpin3d": "06080704000029-U2.P03A",
+    "base_ulpin": "06080704000029",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P03",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 8 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       272.8333333333333
+      ],
+      [
+       167.0,
+       272.8333333333333
+      ],
+      [
+       167.0,
+       288.1666666666667
+      ],
+      [
+       141.5,
+       288.1666666666667
+      ],
+      [
+       141.5,
+       272.8333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u2-P04",
+    "ulpin3d": "06080704000029-U2.P04T",
+    "base_ulpin": "06080704000029",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P04",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 8 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       272.8333333333333
+      ],
+      [
+       192.5,
+       272.8333333333333
+      ],
+      [
+       192.5,
+       288.1666666666667
+      ],
+      [
+       167.0,
+       288.1666666666667
+      ],
+      [
+       167.0,
+       272.8333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u2-P05",
+    "ulpin3d": "06080704000029-U2.P05C",
+    "base_ulpin": "06080704000029",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P05",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 8 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       288.1666666666667
+      ],
+      [
+       167.0,
+       288.1666666666667
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       288.1666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-u2-P06",
+    "ulpin3d": "06080704000029-U2.P06V",
+    "base_ulpin": "06080704000029",
+    "category": "parking",
+    "level_no": -2,
+    "unit_no": "P06",
+    "zmin": -7.0,
+    "zmax": -3.7,
+    "usage": "parking_slot",
+    "owner": "Sky Tower 8 Society",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       167.0,
+       288.1666666666667
+      ],
+      [
+       192.5,
+       288.1666666666667
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       167.0,
+       303.5
+      ],
+      [
+       167.0,
+       288.1666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b22-air",
+    "ulpin3d": "06080704000029-ARO",
+    "base_ulpin": "06080704000029",
+    "category": "air_right",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": 32.0,
+    "zmax": 62.0,
+    "usage": "air_space_rights",
+    "owner": "Sky Rights Corp",
+    "right_type": "Air Right",
+    "asset": null,
+    "building_id": 22
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       141.5,
+       257.5
+      ],
+      [
+       192.5,
+       257.5
+      ],
+      [
+       192.5,
+       303.5
+      ],
+      [
+       141.5,
+       303.5
+      ],
+      [
+       141.5,
+       257.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b23-f1",
+    "ulpin3d": "06080704000030-F013",
+    "base_ulpin": "06080704000030",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 23
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       198.5,
+       256.5
+      ],
+      [
+       251.5,
+       256.5
+      ],
+      [
+       251.5,
+       304.5
+      ],
+      [
+       198.5,
+       304.5
+      ],
+      [
+       198.5,
+       256.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b23-f2",
+    "ulpin3d": "06080704000030-F02K",
+    "base_ulpin": "06080704000030",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 23
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       198.5,
+       256.5
+      ],
+      [
+       251.5,
+       256.5
+      ],
+      [
+       251.5,
+       304.5
+      ],
+      [
+       198.5,
+       304.5
+      ],
+      [
+       198.5,
+       256.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b24-f1",
+    "ulpin3d": "06080704000031-F01H",
+    "base_ulpin": "06080704000031",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 24
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       140.5,
+       309.5
+      ],
+      [
+       193.5,
+       309.5
+      ],
+      [
+       193.5,
+       357.5
+      ],
+      [
+       140.5,
+       357.5
+      ],
+      [
+       140.5,
+       309.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b24-f2",
+    "ulpin3d": "06080704000031-F02Y",
+    "base_ulpin": "06080704000031",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 24
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       140.5,
+       309.5
+      ],
+      [
+       193.5,
+       309.5
+      ],
+      [
+       193.5,
+       357.5
+      ],
+      [
+       140.5,
+       357.5
+      ],
+      [
+       140.5,
+       309.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b25-f1",
+    "ulpin3d": "06080704000032-F01V",
+    "base_ulpin": "06080704000032",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       198.5,
+       309.5
+      ],
+      [
+       251.5,
+       309.5
+      ],
+      [
+       251.5,
+       357.5
+      ],
+      [
+       198.5,
+       357.5
+      ],
+      [
+       198.5,
+       309.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b25-f2",
+    "ulpin3d": "06080704000032-F02C",
+    "base_ulpin": "06080704000032",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "commercial_retail",
+    "owner": "Commercial Board",
+    "right_type": "Leased",
+    "asset": null,
+    "building_id": 25
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       198.5,
+       309.5
+      ],
+      [
+       251.5,
+       309.5
+      ],
+      [
+       251.5,
+       357.5
+      ],
+      [
+       198.5,
+       357.5
+      ],
+      [
+       198.5,
+       309.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b26-f1",
+    "ulpin3d": "06080704000033-F019",
+    "base_ulpin": "06080704000033",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Rajesh Kumar",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 26
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.0,
+       257.0
+      ],
+      [
+       329.0,
+       257.0
+      ],
+      [
+       329.0,
+       304.0
+      ],
+      [
+       277.0,
+       304.0
+      ],
+      [
+       277.0,
+       257.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b26-f2",
+    "ulpin3d": "06080704000033-F02Q",
+    "base_ulpin": "06080704000033",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Ananya Bhattacharya",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 26
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.0,
+       257.0
+      ],
+      [
+       329.0,
+       257.0
+      ],
+      [
+       329.0,
+       304.0
+      ],
+      [
+       277.0,
+       304.0
+      ],
+      [
+       277.0,
+       257.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b26-f3",
+    "ulpin3d": "06080704000033-F037",
+    "base_ulpin": "06080704000033",
+    "category": "floor",
+    "level_no": 3,
+    "unit_no": null,
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential",
+    "owner": "Vikram Rathore",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 26
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.0,
+       257.0
+      ],
+      [
+       329.0,
+       257.0
+      ],
+      [
+       329.0,
+       304.0
+      ],
+      [
+       277.0,
+       304.0
+      ],
+      [
+       277.0,
+       257.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b27-f1",
+    "ulpin3d": "06080704000034-F01N",
+    "base_ulpin": "06080704000034",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Sushma Devi",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 27
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       335.0,
+       257.0
+      ],
+      [
+       387.0,
+       257.0
+      ],
+      [
+       387.0,
+       304.0
+      ],
+      [
+       335.0,
+       304.0
+      ],
+      [
+       335.0,
+       257.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b27-f2",
+    "ulpin3d": "06080704000034-F024",
+    "base_ulpin": "06080704000034",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Arjun Nair",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 27
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       335.0,
+       257.0
+      ],
+      [
+       387.0,
+       257.0
+      ],
+      [
+       387.0,
+       304.0
+      ],
+      [
+       335.0,
+       304.0
+      ],
+      [
+       335.0,
+       257.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b27-f3",
+    "ulpin3d": "06080704000034-F03L",
+    "base_ulpin": "06080704000034",
+    "category": "floor",
+    "level_no": 3,
+    "unit_no": null,
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential",
+    "owner": "Priya Deshpande",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 27
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       335.0,
+       257.0
+      ],
+      [
+       387.0,
+       257.0
+      ],
+      [
+       387.0,
+       304.0
+      ],
+      [
+       335.0,
+       304.0
+      ],
+      [
+       335.0,
+       257.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b28-f1",
+    "ulpin3d": "06080704000035-F011",
+    "base_ulpin": "06080704000035",
+    "category": "floor",
+    "level_no": 1,
+    "unit_no": null,
+    "zmin": 0.0,
+    "zmax": 3.2,
+    "usage": "residential",
+    "owner": "Gopal Chawla",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 28
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.0,
+       310.0
+      ],
+      [
+       329.0,
+       310.0
+      ],
+      [
+       329.0,
+       357.0
+      ],
+      [
+       277.0,
+       357.0
+      ],
+      [
+       277.0,
+       310.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b28-f2",
+    "ulpin3d": "06080704000035-F02I",
+    "base_ulpin": "06080704000035",
+    "category": "floor",
+    "level_no": 2,
+    "unit_no": null,
+    "zmin": 3.2,
+    "zmax": 6.4,
+    "usage": "residential",
+    "owner": "Neha Saxena",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 28
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.0,
+       310.0
+      ],
+      [
+       329.0,
+       310.0
+      ],
+      [
+       329.0,
+       357.0
+      ],
+      [
+       277.0,
+       357.0
+      ],
+      [
+       277.0,
+       310.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b28-f3",
+    "ulpin3d": "06080704000035-F03Z",
+    "base_ulpin": "06080704000035",
+    "category": "floor",
+    "level_no": 3,
+    "unit_no": null,
+    "zmin": 6.4,
+    "zmax": 9.600000000000001,
+    "usage": "residential",
+    "owner": "Ramesh Gupta",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 28
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       277.0,
+       310.0
+      ],
+      [
+       329.0,
+       310.0
+      ],
+      [
+       329.0,
+       357.0
+      ],
+      [
+       277.0,
+       357.0
+      ],
+      [
+       277.0,
+       310.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a1",
+    "ulpin3d": "06080704900001-MTA17",
+    "base_ulpin": "06080704900001",
+    "category": "metro_tunnel",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -17.0,
+    "zmax": -12.0,
+    "usage": "transit_corridor",
+    "owner": "Metro Authority",
+    "right_type": "Transit Easement",
+    "asset": "A1",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       0.0,
+       122.0
+      ],
+      [
+       392.0,
+       122.0
+      ],
+      [
+       392.0,
+       130.0
+      ],
+      [
+       0.0,
+       130.0
+      ],
+      [
+       0.0,
+       122.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a2",
+    "ulpin3d": "06080704900002-ND016",
+    "base_ulpin": "06080704900002",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -2.5,
+    "zmax": -2.1,
+    "usage": "water_duct",
+    "owner": "Water Board",
+    "right_type": "Utility Easement",
+    "asset": "01",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       128.4,
+       0.0
+      ],
+      [
+       128.55,
+       0.0
+      ],
+      [
+       128.55,
+       362.0
+      ],
+      [
+       128.4,
+       362.0
+      ],
+      [
+       128.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a3",
+    "ulpin3d": "06080704900003-ND022",
+    "base_ulpin": "06080704900003",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -3.3,
+    "zmax": -2.8,
+    "usage": "sewage_duct",
+    "owner": "Sewerage Board",
+    "right_type": "Utility Easement",
+    "asset": "02",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       128.4,
+       0.0
+      ],
+      [
+       128.55,
+       0.0
+      ],
+      [
+       128.55,
+       362.0
+      ],
+      [
+       128.4,
+       362.0
+      ],
+      [
+       128.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a4",
+    "ulpin3d": "06080704900004-ND03Y",
+    "base_ulpin": "06080704900004",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -1.7,
+    "zmax": -1.4,
+    "usage": "electric_duct",
+    "owner": "Power Utility",
+    "right_type": "Utility Easement",
+    "asset": "03",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       128.4,
+       0.0
+      ],
+      [
+       128.55,
+       0.0
+      ],
+      [
+       128.55,
+       362.0
+      ],
+      [
+       128.4,
+       362.0
+      ],
+      [
+       128.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a5",
+    "ulpin3d": "06080704900005-ND04U",
+    "base_ulpin": "06080704900005",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -1.25,
+    "zmax": -1.05,
+    "usage": "telecom_duct",
+    "owner": "Telecom Co",
+    "right_type": "Utility Easement",
+    "asset": "04",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       128.4,
+       0.0
+      ],
+      [
+       128.55,
+       0.0
+      ],
+      [
+       128.55,
+       362.0
+      ],
+      [
+       128.4,
+       362.0
+      ],
+      [
+       128.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a6",
+    "ulpin3d": "06080704900006-ND01Q",
+    "base_ulpin": "06080704900006",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -2.5,
+    "zmax": -2.1,
+    "usage": "water_duct",
+    "owner": "Water Board",
+    "right_type": "Utility Easement",
+    "asset": "01",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       264.4,
+       0.0
+      ],
+      [
+       264.55,
+       0.0
+      ],
+      [
+       264.55,
+       362.0
+      ],
+      [
+       264.4,
+       362.0
+      ],
+      [
+       264.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a7",
+    "ulpin3d": "06080704900007-ND02M",
+    "base_ulpin": "06080704900007",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -3.3,
+    "zmax": -2.8,
+    "usage": "sewage_duct",
+    "owner": "Sewerage Board",
+    "right_type": "Utility Easement",
+    "asset": "02",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       264.4,
+       0.0
+      ],
+      [
+       264.55,
+       0.0
+      ],
+      [
+       264.55,
+       362.0
+      ],
+      [
+       264.4,
+       362.0
+      ],
+      [
+       264.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a8",
+    "ulpin3d": "06080704900008-ND03I",
+    "base_ulpin": "06080704900008",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -1.7,
+    "zmax": -1.4,
+    "usage": "electric_duct",
+    "owner": "Power Utility",
+    "right_type": "Utility Easement",
+    "asset": "03",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       264.4,
+       0.0
+      ],
+      [
+       264.55,
+       0.0
+      ],
+      [
+       264.55,
+       362.0
+      ],
+      [
+       264.4,
+       362.0
+      ],
+      [
+       264.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "a9",
+    "ulpin3d": "06080704900009-ND04E",
+    "base_ulpin": "06080704900009",
+    "category": "utility_network",
+    "level_no": 0,
+    "unit_no": null,
+    "zmin": -1.25,
+    "zmax": -1.05,
+    "usage": "telecom_duct",
+    "owner": "Telecom Co",
+    "right_type": "Utility Easement",
+    "asset": "04",
+    "building_id": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       264.4,
+       0.0
+      ],
+      [
+       264.55,
+       0.0
+      ],
+      [
+       264.55,
+       362.0
+      ],
+      [
+       264.4,
+       362.0
+      ],
+      [
+       264.4,
+       0.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "key": "b15-shaft",
+    "ulpin3d": "06080704000021-U38",
+    "base_ulpin": "06080704000021",
+    "category": "underground",
+    "level_no": -3,
+    "unit_no": null,
+    "zmin": -15.0,
+    "zmax": -11.0,
+    "usage": "lift_shaft",
+    "owner": "Green Tower 6",
+    "right_type": "Owned",
+    "asset": null,
+    "building_id": 15
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       279.5,
+       127.5
+      ],
+      [
+       289.5,
+       127.5
+      ],
+      [
+       289.5,
+       132.5
+      ],
+      [
+       279.5,
+       132.5
+      ],
+      [
+       279.5,
+       127.5
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

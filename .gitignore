@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Node / Next
+node_modules/
+.next/
+out/
+frontend/.env.local
+
+# Data artifacts (generated / ingested, large)
+data/raw/*
+data/derived/*
+data/reconstruction/real/
+!data/raw/.gitkeep
+!data/derived/.gitkeep
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Docker
+*.log

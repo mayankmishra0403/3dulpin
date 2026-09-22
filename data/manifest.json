@@ -1,0 +1,43 @@
+{
+  "n_points": 169509,
+  "n_parcels_2d": 36,
+  "n_buildings": 28,
+  "n_volumes_3d": 235,
+  "n_assets": 9,
+  "n_trees": 32,
+  "blocks_x": 3,
+  "blocks_y": 3,
+  "origin_utm": [
+    698353.559483032,
+    3149754.545846297
+  ],
+  "utm_zone": 32643,
+  "bounds": [
+    0.0,
+    0.0,
+    392.0,
+    362.0
+  ],
+  "rasters": {
+    "dem": "raw/dem.tif",
+    "dsm": "raw/dsm.tif",
+    "ndsm": "raw/ndsm.tif",
+    "truth_building_mask": "raw/truth_building_mask.tif",
+    "ortho": "raw/ortho.tif"
+  },
+  "pointcloud": "raw/pointcloud.las",
+  "options": {
+    "seed": 42,
+    "blocks_x": 3,
+    "blocks_y": 3,
+    "block_w": 120.0,
+    "block_h": 110.0,
+    "road": 16.0,
+    "max_floors": 8,
+    "point_density": 0.6,
+    "raster_cell": 2.0,
+    "include_metro": true,
+    "origin_lat": 28.4593,
+    "origin_lon": 77.0258
+  }
+}

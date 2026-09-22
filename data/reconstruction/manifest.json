@@ -1,0 +1,25 @@
+{
+  "cloud_path": "pointcloud.ply",
+  "dsm_path": null,
+  "georeference": {
+    "crs": 32643,
+    "gcp_count": 0,
+    "rmse_m": 0.0,
+    "rotation": 0.0,
+    "scale": 1.0,
+    "strategy": "pose_seed",
+    "translation": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "mesh_path": null,
+  "method": "lidar",
+  "note": "offline demo artifact (synthetic LAS \u2192 PLY); a GPU splatfacto export replaces it",
+  "source": "synthetic_lidar",
+  "stats": {
+    "points": 169509
+  },
+  "status": "done"
+}
