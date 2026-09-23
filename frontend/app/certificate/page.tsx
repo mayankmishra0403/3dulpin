@@ -95,7 +95,7 @@ function CertificateContent() {
       </div>
 
       {/* PRINTABLE OFFICIAL GOVERNMENT LAND CERTIFICATE CARD */}
-      <div className="relative rounded-2xl border-4 border-amber-600/40 bg-white p-8 sm:p-12 shadow-xl space-y-8 text-slate-900 print:bg-white print:text-slate-900 print:border-slate-800 print:shadow-none">
+      <div data-guide-step="certificate-passport" className="relative rounded-2xl border-4 border-amber-600/40 bg-white p-8 sm:p-12 shadow-xl space-y-8 text-slate-900 print:bg-white print:text-slate-900 print:border-slate-800 print:shadow-none scroll-mt-24">
         <TricolorStrip className="h-2 w-full absolute top-0 left-0 rounded-t-xl" />
 
         {/* Certificate Government Header */}

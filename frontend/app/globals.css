@@ -32,3 +32,47 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+/* 3D Voice Assistant avatar */
+.guide-avatar {
+  perspective: 400px;
+  transform-style: preserve-3d;
+}
+.guide-avatar .guide-spin {
+  animation: guide-float 3.2s ease-in-out infinite, guide-tilt 6s linear infinite;
+  transform-style: preserve-3d;
+  box-shadow: 0 10px 24px -6px rgba(0, 43, 73, 0.55), inset 0 -6px 12px rgba(0, 0, 0, 0.18),
+    inset 0 6px 12px rgba(255, 255, 255, 0.35);
+}
+.guide-avatar .guide-ring {
+  border-radius: 9999px;
+  animation: guide-float 3.2s ease-in-out 0.4s infinite;
+}
+.guide-avatar .guide-ring-slow {
+  border-radius: 9999px;
+  animation: guide-float 3.2s ease-in-out 0.8s infinite, guide-orbit 14s linear infinite;
+}
+@keyframes guide-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+@keyframes guide-tilt {
+  0%, 100% { transform: rotateX(8deg) rotateY(0deg); }
+  50% { transform: rotateX(-8deg) rotateY(180deg); }
+  100% { transform: rotateX(8deg) rotateY(360deg); }
+}
+@keyframes guide-orbit {
+  0% { transform: rotate(0deg) translateX(5px) rotate(0deg); }
+  100% { transform: rotate(360deg) translateX(5px) rotate(-360deg); }
+}
+
+/* Highlight for guided-tour target step */
+.guide-step-active {
+  outline: 3px solid rgba(245, 153, 0, 0.85) !important;
+  outline-offset: 3px;
+  animation: guide-pulse 1.1s ease-in-out 3;
+}
+@keyframes guide-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(245, 153, 0, 0.55); }
+  50% { box-shadow: 0 0 0 10px rgba(245, 153, 0, 0); }
+}

@@ -17,19 +17,19 @@ export function Navbar() {
   ];
 
   return (
-    <nav className="bg-[#F5F5EE] border-t border-b border-slate-300">
+    <nav className="sticky top-0 z-50 bg-[#002B49] text-white shadow-md border-b border-cyan-900/40">
       <div className="max-w-7xl mx-auto px-4 lg:px-12 overflow-x-auto scrollbar-none">
-        <div className="flex items-center text-xs font-semibold whitespace-nowrap">
+        <div className="flex items-center text-xs font-semibold whitespace-nowrap gap-1 py-1.5">
           {navItems.map((item) => {
             const isActive = pathname === item.href;
             return (
               <Link
                 key={item.href}
                 href={item.href}
-                className={`px-4 py-3 transition-colors ${
+                className={`px-4 py-2 rounded-lg transition-all ${
                   isActive
-                    ? "text-[#6B4600] font-bold border-b-2 border-[#F59900] bg-white"
-                    : "text-slate-700 hover:text-[#6B4600] hover:bg-white"
+                    ? "bg-[#F59900] text-slate-950 font-bold shadow-sm"
+                    : "text-slate-200 hover:text-white hover:bg-white/10"
                 }`}
               >
                 {item.label}

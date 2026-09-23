@@ -18,18 +18,18 @@ export function DolrGovtMetricsRow() {
   ];
 
   return (
-    <div className="w-full bg-[#F5F5F0] py-6 border-b border-slate-300">
-      <div className="max-w-7xl mx-auto px-4 lg:px-12">
-        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3">
+    <div className="w-full bg-slate-50/60 py-6 border-y border-slate-200/80 rounded-2xl">
+      <div className="max-w-7xl mx-auto px-4 lg:px-6">
+        <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-2.5">
           {metrics.map((m, idx) => (
             <div
               key={idx}
-              className="bg-white border border-slate-300 rounded p-3 text-center flex flex-col items-center justify-between min-h-[92px]"
+              className="bg-white border border-slate-200/90 rounded-xl p-3 text-center flex flex-col items-center justify-center min-h-[84px] shadow-sm hover:border-[#F59900] transition-colors"
             >
-              <div className="font-extrabold text-slate-900 text-sm sm:text-base tracking-tight">
+              <div className="font-extrabold text-[#002B49] text-sm sm:text-base tracking-tight">
                 {t(m.num_en, m.num_hi)}
               </div>
-              <div className="text-[11px] font-bold text-slate-700 mt-1 leading-snug">
+              <div className="text-[10px] font-semibold text-slate-500 mt-1 leading-snug">
                 {t(m.title_en, m.title_hi)}
               </div>
             </div>

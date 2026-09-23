@@ -129,7 +129,7 @@ export default function ULPINLab() {
       {/* TWO COLUMN GENERATOR AND PARSER */}
       <div className="grid lg:grid-cols-2 gap-6">
         {/* GENERATOR CARD */}
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 shadow-sm">
+        <div data-guide-step="ulpin-generator" className="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 shadow-sm scroll-mt-24">
           <div className="flex items-center gap-2 border-b border-slate-200 pb-3">
             <Box className="h-5 w-5 text-[#B85C00]" />
             <h2 className="text-base font-bold text-slate-900">
@@ -220,7 +220,7 @@ export default function ULPINLab() {
         </div>
 
         {/* PARSER & QR CODE CANVAS CARD */}
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 shadow-sm">
+        <div data-guide-step="ulpin-qr" className="rounded-2xl border border-slate-200 bg-white p-6 space-y-5 shadow-sm scroll-mt-24">
           <div className="flex items-center gap-2 border-b border-slate-200 pb-3">
             <ShieldCheck className="h-5 w-5 text-emerald-700" />
             <h2 className="text-base font-bold text-slate-900">

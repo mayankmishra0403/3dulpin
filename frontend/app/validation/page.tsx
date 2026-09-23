@@ -138,7 +138,7 @@ export default function ValidationPage() {
       )}
 
       {/* METRIC BENCHMARK CARDS */}
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+      <div data-guide-step="validation-metrics" className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 scroll-mt-24">
         {metrics.map((item) => (
           <div key={item.label} className="rounded-2xl border border-slate-200 bg-white p-3.5 shadow-sm">
             <div className="text-[10px] uppercase font-bold text-slate-500 tracking-wider">{item.label}</div>
@@ -219,7 +219,7 @@ export default function ValidationPage() {
       {/* DUAL VIEW: RASTER MAP PREVIEW + BUILDING MATCH TABLE */}
       <div className="grid lg:grid-cols-2 gap-6">
         {/* RASTER VISUALIZER */}
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 space-y-4 shadow-sm">
+        <div data-guide-step="validation-raster" className="rounded-2xl border border-slate-200 bg-white p-6 space-y-4 shadow-sm scroll-mt-24">
           <div className="flex flex-wrap items-center justify-between border-b border-slate-200 pb-3 gap-2">
             <div className="flex items-center gap-2">
               <ImageIcon className="h-5 w-5 text-amber-700" />

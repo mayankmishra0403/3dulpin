@@ -107,83 +107,73 @@ export function BhulekhSearchPanel() {
       {/* 3-STEP SELECTION GRID: DISTRICT -> TEHSIL -> VILLAGE */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
         {/* Step 1: Select District */}
-        <div className="rounded-lg border border-slate-300 bg-[#FAFAF6] p-4 space-y-2">
-          <div className="flex items-center justify-between font-black text-slate-900 border-b border-slate-200 pb-2">
-            <span>1. {t("Select District (जनपद चुनें)", "जनपद चुनें")}</span>
-            <span className="text-[10px] text-slate-500 font-bold">Step 1</span>
-          </div>
-          <div className="space-y-1 max-h-40 overflow-y-auto pr-1">
+        <div className="space-y-1.5">
+          <label className="block text-xs font-bold text-slate-800">
+            1. {t("District (जनपद)", "जनपद चुनें")}
+          </label>
+          <select
+            value={selectedDistrict}
+            onChange={(e) => {
+              const dId = e.target.value;
+              setSelectedDistrict(dId);
+              const tehsils = TEHSILS[dId] || [];
+              if (tehsils.length > 0) {
+                setSelectedTehsil(tehsils[0].id);
+                const villages = VILLAGES[tehsils[0].id] || [];
+                if (villages.length > 0) setSelectedVillage(villages[0].id);
+              }
+            }}
+            className="w-full rounded-xl border border-slate-300 bg-slate-50 px-3 py-2.5 font-bold text-slate-900 focus:border-[#F59900] focus:outline-none"
+          >
             {DISTRICTS.map((d) => (
-              <button
-                key={d.id}
-                onClick={() => {
-                  setSelectedDistrict(d.id);
-                  const tehsils = TEHSILS[d.id] || [];
-                  if (tehsils.length > 0) setSelectedTehsil(tehsils[0].id);
-                }}
-                className={`w-full text-left px-3 py-2 rounded-lg font-bold transition-all ${
-                  selectedDistrict === d.id
-                    ? "bg-[#F59900] text-slate-950 shadow-sm"
-                    : "text-slate-700 hover:bg-slate-200/60"
-                }`}
-              >
+              <option key={d.id} value={d.id}>
                 {t(d.name_en, d.name_hi)}
-              </button>
+              </option>
             ))}
-          </div>
+          </select>
         </div>
 
         {/* Step 2: Select Tehsil */}
-        <div className="rounded-lg border border-slate-300 bg-[#FAFAF6] p-4 space-y-2">
-          <div className="flex items-center justify-between font-black text-slate-900 border-b border-slate-200 pb-2">
-            <span>2. {t("Select Tehsil (तहसील चुनें)", "तहसील चुनें")}</span>
-            <span className="text-[10px] text-slate-500 font-bold">Step 2</span>
-          </div>
-          <div className="space-y-1 max-h-40 overflow-y-auto pr-1">
+        <div className="space-y-1.5">
+          <label className="block text-xs font-bold text-slate-800">
+            2. {t("Tehsil (तहसील)", "तहसील चुनें")}
+          </label>
+          <select
+            value={selectedTehsil}
+            onChange={(e) => {
+              const tId = e.target.value;
+              setSelectedTehsil(tId);
+              const villages = VILLAGES[tId] || [];
+              if (villages.length > 0) setSelectedVillage(villages[0].id);
+            }}
+            className="w-full rounded-xl border border-slate-300 bg-slate-50 px-3 py-2.5 font-bold text-slate-900 focus:border-[#F59900] focus:outline-none"
+          >
             {(TEHSILS[selectedDistrict] || []).map((th) => (
-              <button
-                key={th.id}
-                onClick={() => {
-                  setSelectedTehsil(th.id);
-                  const villages = VILLAGES[th.id] || [];
-                  if (villages.length > 0) setSelectedVillage(villages[0].id);
-                }}
-                className={`w-full text-left px-3 py-2 rounded-lg font-bold transition-all ${
-                  selectedTehsil === th.id
-                    ? "bg-[#F59900] text-slate-950 shadow-sm"
-                    : "text-slate-700 hover:bg-slate-200/60"
-                }`}
-              >
+              <option key={th.id} value={th.id}>
                 {t(th.name_en, th.name_hi)}
-              </button>
+              </option>
             ))}
-          </div>
+          </select>
         </div>
 
         {/* Step 3: Select Village */}
-        <div className="rounded-lg border border-slate-300 bg-[#FAFAF6] p-4 space-y-2">
-          <div className="flex items-center justify-between font-black text-slate-900 border-b border-slate-200 pb-2">
-            <span>3. {t("Select Village / Locality (ग्राम चुनें)", "ग्राम चुनें")}</span>
-            <span className="text-[10px] text-slate-500 font-bold">Step 3</span>
-          </div>
-          <div className="space-y-1 max-h-40 overflow-y-auto pr-1">
+        <div className="space-y-1.5">
+          <label className="block text-xs font-bold text-slate-800">
+            3. {t("Village / Locality (ग्राम)", "ग्राम चुनें")}
+          </label>
+          <select
+            value={selectedVillage}
+            onChange={(e) => setSelectedVillage(e.target.value)}
+            className="w-full rounded-xl border border-slate-300 bg-slate-50 px-3 py-2.5 font-bold text-slate-900 focus:border-[#F59900] focus:outline-none"
+          >
             {(VILLAGES[selectedTehsil] || [
               { id: "04", name_en: "DLF CyberCity / Sector 24 (Village 04)", name_hi: "डीएलएफ साइबरसिटी / सेक्टर 24 (ग्राम 04)", ulpin_count: 235 },
             ]).map((v) => (
-              <button
-                key={v.id}
-                onClick={() => setSelectedVillage(v.id)}
-                className={`w-full text-left px-3 py-2 rounded-lg font-bold transition-all flex items-center justify-between ${
-                  selectedVillage === v.id
-                    ? "bg-[#F59900] text-slate-950 shadow-sm"
-                    : "text-slate-700 hover:bg-slate-200/60"
-                }`}
-              >
-                <span>{t(v.name_en, v.name_hi)}</span>
-                <span className="text-[10px] font-mono px-1.5 py-0.5 rounded bg-slate-200 font-bold">{v.ulpin_count} ULPINs</span>
-              </button>
+              <option key={v.id} value={v.id}>
+                {t(v.name_en, v.name_hi)} ({v.ulpin_count} ULPINs)
+              </option>
             ))}
-          </div>
+          </select>
         </div>
       </div>
 

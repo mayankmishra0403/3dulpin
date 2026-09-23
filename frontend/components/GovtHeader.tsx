@@ -49,20 +49,33 @@ export function GovtHeader() {
       </div>
 
       {/* LOGO BAR */}
-      <div className="max-w-7xl mx-auto px-4 lg:px-12 py-4 flex items-center justify-between">
-        {/* LEFT — BIG ASHOKA EMBLEM */}
-        <AshokaEmblem className="h-52 w-52" />
+      <div className="max-w-7xl mx-auto px-4 lg:px-12 py-3.5 flex items-center justify-between gap-4">
+        {/* LEFT — ASHOKA EMBLEM + PORTAL TITLE */}
+        <div className="flex items-center gap-4">
+          <AshokaEmblem className="h-14 w-auto shrink-0" />
+          <div className="border-l border-slate-300 pl-4 py-0.5">
+            <h1 className="text-base sm:text-lg font-extrabold text-[#002B49] tracking-tight leading-snug">
+              {t("3D Bhu-Aadhaar National Portal", "3D भू-आधार राष्ट्रीय पोर्टल")}
+            </h1>
+            <p className="text-[11px] text-slate-600 font-medium">
+              {t(
+                "Department of Land Resources • Ministry of Rural Development",
+                "भूमि संसाधन विभाग • ग्रामीण विकास मंत्रालय"
+              )}
+            </p>
+          </div>
+        </div>
 
         {/* RIGHT — PM CIRCULAR PORTRAIT */}
-        <div className="flex flex-col gap-3">
+        <div className="hidden sm:flex items-center gap-3 bg-slate-50/80 rounded-full pl-1.5 pr-4 py-1 border border-slate-200">
           {PORTRAITS.map((p) => (
-            <div key={p.name} className="flex items-center gap-3">
-              <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-full border-4 border-[#F59900] bg-slate-100">
-                <Image src={p.img} alt={p.name} fill sizes="80px" unoptimized className="object-cover object-top" />
+            <div key={p.name} className="flex items-center gap-2.5">
+              <div className="relative h-11 w-11 shrink-0 overflow-hidden rounded-full border-2 border-[#F59900] bg-slate-100 shadow-sm">
+                <Image src={p.img} alt={p.name} fill sizes="44px" unoptimized className="object-cover object-top" />
               </div>
-              <div className="max-w-[140px]">
-                <div className="text-[12px] font-bold text-slate-900 leading-tight">{p.name}</div>
-                <div className="text-[10px] text-slate-600 font-medium leading-tight mt-0.5">
+              <div className="text-left">
+                <div className="text-xs font-bold text-slate-900 leading-tight">{p.name}</div>
+                <div className="text-[10px] text-slate-500 font-medium leading-tight">
                   {t(p.roleEn, p.roleHi)}
                 </div>
               </div>
